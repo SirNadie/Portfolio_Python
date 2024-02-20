@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bd8bbed-254f-41dd-a5ac-e79632b1b823" name="Changes" comment="add001" />
+    <list default="true" id="7bd8bbed-254f-41dd-a5ac-e79632b1b823" name="Changes" comment="add003">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_001/mini_alexa.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project_001/texto_to_audio.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +42,7 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python.mini_alexa.executor": "Run",
+    "Python.texto_to_audio.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -82,13 +86,39 @@
       <option name="project" value="LOCAL" />
       <updated>1708448541095</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add002">
+      <option name="closed" value="true" />
+      <created>1708458254750</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708458254750</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add002">
+      <option name="closed" value="true" />
+      <created>1708458302522</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708458302522</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add003">
+      <option name="closed" value="true" />
+      <created>1708458412319</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708458412319</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create Ejemplo01.txt&#10;&#10;prueba01" />
     <MESSAGE value="Ejemplo001" />
     <MESSAGE value="add001" />
-    <option name="LAST_COMMIT_MESSAGE" value="add001" />
+    <MESSAGE value="add002" />
+    <MESSAGE value="add003" />
+    <option name="LAST_COMMIT_MESSAGE" value="add003" />
   </component>
 </project>
